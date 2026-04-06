@@ -88,23 +88,21 @@ const WhatIDo = () => {
 
             <div className="what-content-in">
               <h3>DEVELOP</h3>
-              <h4>Description</h4>
+              <h4>Performance & Scalability</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae.
+                Focusing on building high-performance, responsive, and user-centric web applications. 
+                Expertise in CMS platforms and modern web technologies.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
+                <div className="what-tags">HTML / CSS</div>
                 <div className="what-tags">JavaScript</div>
-                <div className="what-tags">TypeScript</div>
-                <div className="what-tags">Three.js</div>
+                <div className="what-tags">WordPress</div>
+                <div className="what-tags">Shopify</div>
+                <div className="what-tags">Payment Integrations</div>
+                <div className="what-tags">Server Management</div>
                 <div className="what-tags">React</div>
-                <div className="what-tags">Css</div>
-                <div className="what-tags">Node.js</div>
-                <div className="what-tags">Next.js</div>
-                <div className="what-tags">Express.js</div>
-                <div className="what-tags">PHP</div>
-                <div className="what-tags">MySql</div>
+                <div className="what-tags">GSAP</div>
               </div>
               <div className="what-arrow"></div>
             </div>

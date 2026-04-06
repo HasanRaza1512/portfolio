@@ -6,10 +6,18 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis
-          dolores numquam iusto Ratione earum ducimus autem id iure pariatur
-          dolorum quae maiores.
+          Results-driven Frontend Developer with expertise in HTML, CSS,
+          JavaScript, WordPress, and Shopify. Proven experience in payment
+          gateway integration, server management, and responsive web design.
+          Strong problem-solving skills with a focus on performance
+          optimization, scalability, and delivering user-centric solutions.
         </p>
+        <div style={{ marginTop: "2rem" }}>
+          <h3 className="title">Education</h3>
+          <p className="para" style={{ fontSize: "1.2rem", fontWeight: "400" }}>
+            APTECH - Diploma in Software Engineering
+          </p>
+        </div>
       </div>
     </div>
   );
