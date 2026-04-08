@@ -90,7 +90,7 @@ const WhatIDo = () => {
               <h3>DEVELOP</h3>
               <h4>Performance & Scalability</h4>
               <p>
-                Focusing on building high-performance, responsive, and user-centric web applications. 
+                Focusing on building high-performance, responsive, and user-centric web applications.
                 Expertise in CMS platforms and modern web technologies.
               </p>
               <h5>Skillset & tools</h5>
@@ -129,19 +129,15 @@ const WhatIDo = () => {
               <h3>DESIGN</h3>
               <h4>Description</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae
+                I focus on creating visually appealing and user-centric designs that not only look great but also deliver a seamless user experience.
+                Crafting clean, modern, and user-focused designs that enhance user experience and bring ideas to life.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Blender</div>
-                <div className="what-tags">Zbrush</div>
                 <div className="what-tags">UI Design</div>
+                <div className="what-tags">Figma</div>
                 <div className="what-tags">Motion</div>
-                <div className="what-tags">Rigging</div>
-                <div className="what-tags">3D Animation</div>
-                <div className="what-tags">Character Design</div>
-                <div className="what-tags">Modelling</div>
+                <div className="what-tags">3D Design</div>
               </div>
               <div className="what-arrow"></div>
             </div>
